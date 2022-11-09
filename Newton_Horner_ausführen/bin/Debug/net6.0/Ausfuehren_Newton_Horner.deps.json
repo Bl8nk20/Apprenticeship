@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Ausfuehren_Newton_Horner/1.0.0": {
+        "runtime": {
+          "Ausfuehren_Newton_Horner.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Ausfuehren_Newton_Horner/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
