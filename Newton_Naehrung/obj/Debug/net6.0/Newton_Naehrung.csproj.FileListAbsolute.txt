@@ -1,0 +1,5 @@
+C:\Users\ms85866\Desktop\Programme_Codes\ArbeitsCodes\Skripte_waehrend_Praxis\HalloWelt\Newton_Naehrung\obj\Debug\net6.0\Newton_Naehrung.csproj.AssemblyReference.cache
+C:\Users\ms85866\Desktop\Programme_Codes\ArbeitsCodes\Skripte_waehrend_Praxis\HalloWelt\Newton_Naehrung\obj\Debug\net6.0\Newton_Naehrung.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ms85866\Desktop\Programme_Codes\ArbeitsCodes\Skripte_waehrend_Praxis\HalloWelt\Newton_Naehrung\obj\Debug\net6.0\Newton_Naehrung.AssemblyInfoInputs.cache
+C:\Users\ms85866\Desktop\Programme_Codes\ArbeitsCodes\Skripte_waehrend_Praxis\HalloWelt\Newton_Naehrung\obj\Debug\net6.0\Newton_Naehrung.AssemblyInfo.cs
+C:\Users\ms85866\Desktop\Programme_Codes\ArbeitsCodes\Skripte_waehrend_Praxis\HalloWelt\Newton_Naehrung\obj\Debug\net6.0\Newton_Naehrung.csproj.CoreCompileInputs.cache
