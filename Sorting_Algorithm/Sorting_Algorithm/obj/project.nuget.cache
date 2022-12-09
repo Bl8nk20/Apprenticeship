@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "N0amjzE3CnhwXoQ5/YeYu+T7SgPZSRaU6f+ylGItzEOw6wf1xWOVezK1i11u9DRKNGbQD6R704QfsTxM+XDrdA==",
+  "success": true,
+  "projectFilePath": "C:\\#Moritz\\#Ausbildungsskripte\\EInführung\\Sorting_Algorithm\\Sorting_Algorithm\\Sorting_Algorithm.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ms85866\\.nuget\\packages\\csvhelper\\30.0.0\\csvhelper.30.0.0.nupkg.sha512",
+    "C:\\Users\\ms85866\\.nuget\\packages\\microsoft.netcore.platforms\\3.0.0\\microsoft.netcore.platforms.3.0.0.nupkg.sha512",
+    "C:\\Users\\ms85866\\.nuget\\packages\\microsoft.win32.systemevents\\4.6.0\\microsoft.win32.systemevents.4.6.0.nupkg.sha512",
+    "C:\\Users\\ms85866\\.nuget\\packages\\scottplot\\4.1.59\\scottplot.4.1.59.nupkg.sha512",
+    "C:\\Users\\ms85866\\.nuget\\packages\\system.drawing.common\\4.6.1\\system.drawing.common.4.6.1.nupkg.sha512",
+    "C:\\Users\\ms85866\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
