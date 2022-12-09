@@ -12,15 +12,7 @@ namespace Sorting_Algorithms
 {
     public class Input_parsing
     {
-
-        public static string filepath = @"";
-        /// <summary>
-        /// method to generate random integers and add it to an array
-        /// </summary>
-        /// <param name="size">size of the array</param>
-        /// <param name="range">range of the numbers usually range = 100</param>
-        /// <returns> currently returning an array -> going to be changed to void type and safe to file</returns>
-
+        
         /// <summary>
         /// A method to generate random Numbers and add it to a user given size array
         /// </summary>
@@ -73,7 +65,7 @@ namespace Sorting_Algorithms
                         }
                         else
                         {
-                            smyWriterw.Write(element + ", ");
+                            smyWriterw.Write(element + " ");
                         }
                     }
                 }
@@ -94,38 +86,25 @@ namespace Sorting_Algorithms
         public int[] ReadFile(string filepath)
         {
             // declaring variables
-            string[] arrays = File.ReadAllLines(filepath);
-            int[] array = new int[arrays.Length];
+            string arrays = File.ReadAllText(filepath);
+            string[] numbers = arrays.Split();
+            int[] array_of_numbers = new int[numbers.Length];
 
-            // Debugging Console Writing
-            foreach (string item in arrays)
-            {
-                Console.WriteLine(item);
-            }
-
-            // Trying to write the contents of the file -> as an int array 
+            // trying to Convert each number and add it to an array
             try
             {
-                int i = 0;
-                foreach (string line in arrays)
+                for (int i = 0; i < numbers.Length; i++)
                 {
-                    array[i] = Convert.ToInt32(line);
-                    i++;
+                    array_of_numbers[i] = Convert.ToInt32(numbers[i]);
                 }
             }
-            // Output a Message if not possible
+            // if not possible throw a Detailed Message
             catch (Exception ex)
             {
                 Console.WriteLine(ex.Message);
             }
 
-            //foreach(int item in array)
-            //{
-            //    Console.WriteLine(item);
-            //}
-
-            return array;
+            return array_of_numbers;
         }
-
     }
 }

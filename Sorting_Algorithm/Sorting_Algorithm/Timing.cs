@@ -20,8 +20,10 @@ namespace Sorting_Algorithms
 
             // get input array
             Console.WriteLine("Enter size of input-array:");
+            string filepath = @"array.txt";
             int size = Convert.ToInt32(Console.ReadLine());
-            int[] inputs = input_Parsing.generating(size);
+            input_Parsing.TryGenerating(size, filepath);
+            int[] inputs = input_Parsing.ReadFile(filepath);
             double[] times = new double[5];
             int i = 0;
 
