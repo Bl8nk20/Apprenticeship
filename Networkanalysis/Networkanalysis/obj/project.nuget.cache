@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "R/u9JdqDuVyUnE6Xo8d7smHB/8mlifnwpNSsNSwcQHoY49MiSocokdrVZVJM9v3TRQlpgH35ga2g9M95AHSw2w==",
+  "dgSpecHash": "lUE0vkpTyN6p3X/8fWWuGdygOOt1fuTgb+BLRy26mGu5SKM2XNyKn0fUPL+SVDYE4XrzDd3qj6gHK53U5UOyZQ==",
   "success": true,
   "projectFilePath": "C:\\#Moritz\\#Ausbildungsskripte\\EInführung\\Networkanalysis\\Networkanalysis\\Networkanalysis.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\ms85866\\.nuget\\packages\\mathnet.numerics\\5.0.0\\mathnet.numerics.5.0.0.nupkg.sha512"
+  ],
   "logs": []
 }

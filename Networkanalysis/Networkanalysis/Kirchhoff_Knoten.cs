@@ -8,5 +8,9 @@ namespace Networkanalysis
 {
     internal class Kirchhoff_Knoten
     {
+        // Knoten == Summe aller Ströme an einem Knoten gleich Null
+        // Knoten = Punkt im Netzwerk, an dem mindestens drei
+        // Verbindungen zu/wegführen -> _|_ schnittpunkt aller drei == Knoten
+
     }
 }
