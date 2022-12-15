@@ -27,7 +27,8 @@ namespace Netzwerk_analysis
 
         private void Resistance_Click(object sender, RoutedEventArgs e)
         {
-
+            Resistances_change_window resistances_Change_Window = new Resistances_change_window();
+            resistances_Change_Window.Show();
         }
     }
 }

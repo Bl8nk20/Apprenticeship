@@ -30,5 +30,6 @@ namespace Netzwerk_analysis
     public interface IWriter<T>
     {
         void Write(T data);
+        string Read();
     }
 }
