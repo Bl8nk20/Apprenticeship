@@ -12,5 +12,3 @@ out of the file and compare following sorting algorithms: Bubble-Sort
                                                           Merge-Sort,
                                                           and a Custom Sorting-Algorithm
 and Plotting the results with Horizontal Bar Graphs.
-
-a Program with a GUI that calculate the Current and Voltage of Resistors in a Network.
